@@ -1,0 +1,8 @@
+/node_modules
+/build
+/dist
+ftp-data.json
+package-lock.json
+version.json
+*.zip
+ftp-security.md
