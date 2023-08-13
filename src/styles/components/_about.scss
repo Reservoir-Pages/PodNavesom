@@ -1,0 +1,37 @@
+.about {
+  padding-top: 100px;
+  background-color: $color-mint_light;
+
+  &__container {
+    padding: 0px 15px 50px;
+  }
+
+  &__title {
+    padding: 20px 15px 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid $color-brown;
+  }
+
+  &__img {
+    width: calc(50% - 10px);
+  }
+
+  &__text {
+    display: inline-block;
+    padding: 10px;
+    width: calc(50% - 10px);
+    vertical-align: top;
+  }
+}
+
+@media (max-width: 768px) {
+  .about {
+    &__img {
+      width: auto;
+    }
+
+    &__text {
+      width: auto;
+    }
+  }
+}

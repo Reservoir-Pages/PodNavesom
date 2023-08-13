@@ -1,0 +1,28 @@
+.footer {
+  font-size: 1.25rem;
+  color: $color-mint_light;
+  background-color: $color-brown;
+
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  }
+
+  &__logo {
+    max-width: 150px;
+    margin-right: 10px;
+    font-size: 0;
+
+    svg {
+      max-height: 80px;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .footer {
+    font-size: 1.5rem;
+  }
+}

@@ -60,6 +60,10 @@ img {
   clip: rect(1px, 1px, 1px, 1px);
 }
 
+.overflow-hidden {
+  overflow: hidden;
+}
+
 .is-hidden {
   display: none !important; /* stylelint-disable-line declaration-no-important */
 }
