@@ -1,3 +1,3 @@
-# Spb Naves
+## PodNavesom
 
-Репозиторий для сайта <a href="http://naves-spb.tw1.ru/" target="_blank">Spb Naves</a>.
+[Link to site](https:// "Сайт размещен на GitHub Pages")

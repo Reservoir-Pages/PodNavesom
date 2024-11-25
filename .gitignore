@@ -1,12 +1,7 @@
+.git
 .idea
 .vscode
 node_modules
 dist
 build
-ftp-data.json
-mail-data.php
-package-lock.json
 version.json
-*.zip
-ftp-security.md
-IMPORTANT.md
