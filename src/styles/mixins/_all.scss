@@ -1,7 +1,0 @@
-// Обрезка текста
-@mixin trim($column) {
-  display: -webkit-box;
-  -webkit-line-clamp: $column;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
